@@ -2,16 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+## Image
 
-This project is a starting point for a Flutter application.
+ ![imageOne](https://user-images.githubusercontent.com/74091147/141437780-070a6938-38ca-4607-931d-c651766db1a0.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# payment_methodUI" 
+
+![imageTwo](https://user-images.githubusercontent.com/74091147/141437843-50f12944-c002-4414-a78a-06e1af85ae16.png)
